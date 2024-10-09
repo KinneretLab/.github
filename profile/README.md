@@ -10,7 +10,7 @@ LayerSeparationFull - Separating signal from basal and apical surfaces in 3D sta
 
 EPySegAdapter - Our application of EPySeg, a package for segmenting cells in 2D epithelia: https://github.com/baigouy/EPySeg.
 
-OrientationAnalysis - Extracting orientation field and further analysis of nematic fibre orientation.
+OrientationAnalysis - Extracting orientation field and further analysis of nematic fibre orientation. Includes code adapted from Vahid K. Alilou (2024). FingerPrint Matching: A simple approach (https://github.com/alilou63/fingerprint).
 
 PostSegmentationAnalysis - Quantification of cell-based measures from cell segmented images and tools for analysis in relation to fibre organisation.
 
@@ -31,7 +31,7 @@ bioRxiv 2024.06.13.598802; doi: https://doi.org/10.1101/2024.06.13.598802
 Maroudas-Sacks, Y., Garion, L., S Suganthan, Popović, M., Keren, K.. Confinement modulates axial patterning in regenerating Hydra. 
 bioRxiv 2024.06.13.598813; doi: https://doi.org/10.1101/2024.06.13.598813
 
-* The codes are provided here for reference and are annotated for accesibility, but have been developed primarily for internal use, so are not intended to be further supported beyond publication.
+* The codes are provided here for reference and are annotated for accesibility, but have been developed primarily for internal use, so are not intended to be further supported beyond publication. If you use any of these, please cite our relevant publications.
 
 
 
